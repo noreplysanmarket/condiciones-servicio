@@ -1,1 +1,1 @@
-# condiciones-servicio
+# Condiciones servicio
